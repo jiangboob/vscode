@@ -1,2 +1,2 @@
 # vscode
-vscode同步
+vscode同步设置
